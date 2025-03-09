@@ -1,0 +1,10 @@
+h1 {
+    display: flex;
+    color: red;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    flex-flow: column wrap;
+}
